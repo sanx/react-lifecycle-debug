@@ -1,0 +1,28 @@
+{
+  "name": "react-lifecycle-debug",
+  "version": "0.0.1",
+  "description": "React.js Mixin that will output some debug info about components on lifecycle events",
+  "main": "src/react-lifecycle-debug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/sanx/react-lifecycle-debug"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "react.js",
+    "react",
+    "js",
+    "lifecycle",
+    "debug"
+  ],
+  "author": "gerardo@gerardomoad.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanx/react-lifecycle-debug/issues"
+  },
+  "homepage": "https://github.com/sanx/react-lifecycle-debug"
+}
